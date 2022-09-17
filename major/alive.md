@@ -1,3 +1,3 @@
 ## Alive
 
-**Project description:** It's
+It's
