@@ -4,7 +4,8 @@
 
 ### Major Projects
 
-[Alive](/major/alive)
+[Alive](/sample_page)
+
 <img src="images/alive_screenshot.png?raw=true"/>
 
 ---
