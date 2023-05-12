@@ -38,7 +38,7 @@ Currently *not* chronologically sorted
 
 - [Wabes](https://github.com/wolfboyft/wabes): LÖVE wavetank simulator
 - [Asteroise](https://github.com/wolfboyft/asteroise): A full LÖVE asteroids clone!
-- [Spaceship Test](https://github.com/wolfboyft/spaceshipTest): LÖVE 3D render test with varying-length lines used to draw space dust and bullets
+- [Spaceship Test](https://github.com/wolfboyft/spaceshipTest): LÖVE 3D render test with varying-length lines representing points drawn from previous eye-space position to current eye-space position, used to draw space dust and bullets
 - [Gunner](https://github.com/wolfboyft/gunner): LÖVE Hotline Miami clone
 - [Overworld](https://github.com/wolfboyft/overworld): A LÖVE tile-based engine with inventory and free movement
 - [Unnnnamed RPG](https://github.com/wolfboyft/unnnnamedRPG): A LÖVE tile-based engine with crafting and grid-locked movement
