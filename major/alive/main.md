@@ -11,7 +11,8 @@ Alive is one of my dream games. It's supposed to be a top-down 2D experience. Th
 
 ...and  much else besides.
 
-The idea has currently spawned two repositories: one is [Alive-old](https://github.com/wolfboyft/Alive-old), and the other is (as of 2023-05-12) is [Alive](https://github.com/wolfboyft/Alive).
-The first has a few iterations within its commit history.
+The idea has currently spawned two repositories:
+- [Alive-old](https://github.com/wolfboyft/Alive-old) (initial commit 2018-09-16), which has a few iterations within its (very bad) commit history
+- (As of 2023-05-12) [Alive](https://github.com/wolfboyft/Alive) (initial commit 2022-09-20) for which I used issues to track to-dos, which was not necessarily wise.
 
-They both use the LÖVE framework, and the latter was doing very well until I hit the limitations of Lua, at which point I decided the next (and as always, hopefully final) iteration of the project would be made in Rust, very likely using the Bevy game engine.
+They both use the LÖVE framework, and the latter was doing very well until I hit limitations in Lua that were difficult to overcome, at which point I decided the next (and as always, hopefully final) iteration of the project would be made in Rust, very likely using the Bevy game engine.
