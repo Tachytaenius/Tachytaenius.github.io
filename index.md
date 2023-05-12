@@ -4,23 +4,23 @@
 
 ### Major Projects
 
-[Alive](/major/alive)
+[Alive Attempts](/major/alive/main.md)
 
 <img src="images/alive_screenshot.png?raw=true"/>
 
-[okt_](/major/okt_)
+[okt_](/major/okt_/main.md)
 
 <img src="images/okt__screenshot.png?raw=true">
 
-[Tachy Guns](/major/tachy_guns)
+[Tachy Guns](/major/tachy_guns/main.md)
 
 <img src="images/tachy_guns_screenshot.png?raw=true">
 
-[Game Boy Tiles](/major/game_boy_tiles)
+[Game Boy Tiles](/major/game_boy_tiles/main.md)
 
 <img src="images/game_boy_tiles_screenshot.png?raw=true">
 
-[RPG](/major/rpg)
+[RPG](/major/rpg/main.md)
 
 <img src="images/rpg_screenshot.png?raw=true">
 
