@@ -1,5 +1,7 @@
 ## Portfolio
 
+Currently *not* chronologically sorted
+
 ---
 
 ### Major Projects
@@ -42,3 +44,4 @@
 - [Unnnnamed RPG](https://github.com/wolfboyft/unnnnamedRPG): A LÖVE tile-based engine with crafting and grid-locked movement
 - [Unnnnamed Platformer](https://github.com/wolfboyft/unnnnamedPlatformer): A LÖVE tile-based platformer with levels, enemies, coins, and game overs
 - [DFHack Modding Guide](https://docs.dfhack.org/en/latest/docs/guides/modding-guide.html): A guide to get people started with DFHack modding
+- [Euler's Formula Test](https://github.com/wolfboyft/eulers_formula_test): A graphing program to see what happens when you replace e and i in euler's formula
