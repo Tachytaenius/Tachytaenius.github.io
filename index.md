@@ -1,6 +1,6 @@
 ## Portfolio
 
-Currently *not* chronologically sorted
+Currently *not* sorted
 
 ---
 
@@ -8,7 +8,8 @@ Currently *not* chronologically sorted
 
 [Alive Attempts](/major/alive/main.md)
 
-<img src="images/alive_screenshot.png?raw=true"/>
+<img src="images/alive_screenshot_1.png?raw=true"/>
+<img src="images/alive_screenshot_2.png?raw=true"/>
 
 [okt_](/major/okt_/main.md)
 
@@ -20,11 +21,15 @@ Currently *not* chronologically sorted
 
 [Game Boy Tiles](/major/game_boy_tiles/main.md)
 
-<img src="images/game_boy_tiles_screenshot.png?raw=true">
+<img src="images/gameboytiles_screenshot_1.png?raw=true">
+<img src="images/gameboytiles_screenshot_2.png?raw=true">
+<img src="images/gameboytiles_screenshot_3.png?raw=true">
 
 [RPG](/major/rpg/main.md)
 
-<img src="images/rpg_screenshot.png?raw=true">
+<img src="images/rpg_screenshot_1.png?raw=true">
+<img src="images/rpg_screenshot_2.png?raw=true">
+<img src="images/rpg_screenshot_3.png?raw=true">
 
 ---
 
