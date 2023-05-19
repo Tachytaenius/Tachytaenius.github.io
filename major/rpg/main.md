@@ -1,4 +1,4 @@
-## RPG
+# RPG
 
 RPG is a poorly-named Minecraft-like project using physically-based rendering (PBR) (using the maths library [CPML](https://github.com/excessive/cpml)).
 Blocks are organised into cubic chunks each with their own mesh.

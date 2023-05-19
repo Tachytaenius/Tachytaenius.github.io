@@ -1,4 +1,4 @@
-## Tachy Guns
+# Tachy Guns
 
 Tachy Guns is a detailed Dwarf Fortress gun mod using [DFHack](https://github.com/DFHack/dfhack) to add my own functionality into the game.
 It is modular not just in the sense that I use multiple files well and pioneered the format in the DFHack modding guide (alongside someone else), but that you can add and remove packs of content, and make your own.

@@ -1,4 +1,4 @@
-## Alive
+# Alive
 
 Alive is one of my dream games. It's supposed to be a top-down 2D experience. The intention is to make an immersive survival game with/simulating things such as:
 - Soil constituents
