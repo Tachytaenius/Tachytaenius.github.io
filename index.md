@@ -6,6 +6,10 @@ Currently *not* sorted
 
 ### Major Projects
 
+[Shootre](/major/shootre/main.md)
+
+<img src="images/shootre_screenshot.png?raw=true"/>
+
 [Alive Attempts](/major/alive/main.md)
 
 <img src="images/alive_screenshot_1.png?raw=true"/>
