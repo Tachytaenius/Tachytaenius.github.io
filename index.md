@@ -71,7 +71,7 @@ Features determinstic functions for games with input-based replay
 - [Noice](https://github.com/wolfboyft/noice): OpenSimplex and Perlin noise for Lua(JIT), abandoned
 - [Quadreasonable](https://github.com/wolfboyft/quadreasonable): A LÖVE library for splitting up spritesheets
 
-### Minor Projects
+## Minor Projects
 
 - [Wabes](https://github.com/wolfboyft/wabes): LÖVE wavetank simulator
 - [Asteroise](https://github.com/wolfboyft/asteroise): A full LÖVE asteroids clone!
