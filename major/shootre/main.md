@@ -1,5 +1,7 @@
 # Shootre
 
+[GitHub](https://github.com/wolfboyft/shootre)
+
 Shootre is my current main project, as of 2023-05-19.
 It is going to be a base engine for top down shooters, which will allow for content to be put on top.
 I am planning to create a game called Hope & Rage that is content (levels, dialogue, etc) packaged with a version of shootre to use it.
