@@ -1,7 +1,5 @@
 # Portfolio
 
-[My GitHub](https://github.com/wolfboyft)
-
 Welcome to my portfolio.
 I like to try and make projects to a high level of code quality (usually).
 
