@@ -40,7 +40,7 @@ Currently *not* sorted
 ### Libraries
 
 - [Mathsies](https://github.com/wolfboyft/mathsies): A Lua(JIT) library for vec2s, vec3s, quats and mat4s. Features determinstic functions for games with input-based replay
-- [Noice](https://github.com/wolfboyft/noice): OpenSimplex and Perlin noise for Lua(JIT)
+- [Noice](https://github.com/wolfboyft/noice): OpenSimplex and Perlin noise for Lua(JIT), abandoned
 - [Quadreasonable](https://github.com/wolfboyft/quadreasonable): A LÖVE library for splitting up spritesheets
 
 ### Minor Projects
