@@ -46,9 +46,9 @@ Currently *not* sorted
 
 [Overworld](/major/overworld/main.md)
 
-<image src="images/overworld_screenshot_1.png?raw=true">
-<image src="images/overworld_screenshot_2.png?raw=true">
-<image src="images/overworld_screenshot_3.png?raw=true">
+<img src="images/overworld_screenshot_1.png?raw=true">
+<img src="images/overworld_screenshot_2.png?raw=true">
+<img src="images/overworld_screenshot_3.png?raw=true">
 
 ---
 
