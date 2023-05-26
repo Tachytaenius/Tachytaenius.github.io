@@ -8,3 +8,19 @@ The master branch contains a marching cubes attempt, which wasn't perfect.
 It does also demonstrate a dynamically-updating mesh responding to destruction.
 
 In the branch `worldwrap`, the world wraps around, and its generation tiles perfectly.
+
+## Screenshots
+
+Showcasing different damage levels from 0 to block-actually-destroyed, and different grass block side textures depending on whether there is more grass below.
+It also shows the outline of the currently highlighted block.
+
+<img src="../../images/rpg_screenshot_1.png?raw=true">
+
+A marching cubes terrain attempt
+
+<img src="../../images/rpg_screenshot_2.png?raw=true">
+
+A weird mask dude test entity.
+This is from the `worldwrap` branch.
+
+<img src="../../images/rpg_screenshot_3.png?raw=true">

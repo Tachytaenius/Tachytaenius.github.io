@@ -6,49 +6,48 @@ Currently *not* sorted
 
 ### Major Projects
 
-[Shootre](/major/shootre/main.md)
+[Shootre](/major/shootre/main.md):
+An engine for top-down down shooters
 
 <img src="images/shootre_screenshot.png?raw=true"/>
 
-[Alive Attempts](/major/alive/main.md)
+[Alive Attempts](/major/alive/main.md):
+A top-down immersive survival game project
 
 <img src="images/alive_screenshot_1.png?raw=true"/>
-<img src="images/alive_screenshot_2.png?raw=true"/>
 
-[okt_](/major/okt_/main.md)
+[okt_](/major/okt_/main.md):
+An engine for various 3D ideas
 
 <img src="images/okt__screenshot.png?raw=true">
 
-[Tachy Guns](/major/tachy_guns/main.md)
+[Tachy Guns](/major/tachy_guns/main.md):
+A detailed Dwarf Fortress gun mod
 
 <img src="images/tachy_guns_screenshot.png?raw=true">
 
-[Game Boy Tiles](/major/game_boy_tiles/main.md)
+[Game Boy Tiles](/major/game_boy_tiles/main.md):
+A tile-based Game Boy project with gridlocked movement
 
-<img src="images/gameboytiles_screenshot_1.png?raw=true">
 <img src="images/gameboytiles_screenshot_2.png?raw=true">
-<img src="images/gameboytiles_screenshot_3.png?raw=true">
 
-[RPG](/major/rpg/main.md)
+[RPG](/major/rpg/main.md):
+A Minecraft-like game
 
 <img src="images/rpg_screenshot_1.png?raw=true">
-<img src="images/rpg_screenshot_2.png?raw=true">
-<img src="images/rpg_screenshot_3.png?raw=true">
 
-[Unnnnamed RPG](/major/unnnnamedRPG/main.md)
+[Unnnnamed RPG](/major/unnnnamedRPG/main.md):
+A small attempt at a pleasant simulation
 
 <img src="images/unnnnamedrpg_screenshot_1.png?raw=true">
-<img src="images/unnnnamedrpg_screenshot_2.png?raw=true">
 
-[Unnnnamed Platformer](/major/unnnnamedPlatformer/main.md)
+[Unnnnamed Platformer](/major/unnnnamedPlatformer/main.md):
+An attempt at a generic platformer
 
 <img src="images/unnnnamedplatformer_screenshot.png?raw=true">
 
-[Overworld](/major/overworld/main.md)
-
+[Overworld](/major/overworld/main.md): An attempt at a game with automation aspects
 <img src="images/overworld_screenshot_1.png?raw=true">
-<img src="images/overworld_screenshot_2.png?raw=true">
-<img src="images/overworld_screenshot_3.png?raw=true">
 
 ---
 
