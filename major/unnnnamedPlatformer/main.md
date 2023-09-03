@@ -1,6 +1,6 @@
 # Unnnnamed Platformer
 
-[GitHub](https://github.com/wolfboyft/unnnnamedPlatformer)
+[GitHub](https://github.com/Tachytaenius/unnnnamedPlatformer)
 
 This was an attempt at a generic platforming game.
 I had allowed myself to bodge code in this one, which got pretty bad, but there are lots of parameters for how the controls feel that can be changed in a json file for the player's entity type.

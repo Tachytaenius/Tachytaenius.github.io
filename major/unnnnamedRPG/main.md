@@ -1,6 +1,6 @@
 # Unnnnamed RPG
 
-[GitHub](https://github.com/wolfboyft/unnnnamedRPG)
+[GitHub](https://github.com/Tachytaenius/unnnnamedRPG)
 
 This was going to be an attempt at a sort of farming and crafting game with some elements of exploration.
 It was mostly prototyping and trying to see what would be good.

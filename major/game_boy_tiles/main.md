@@ -1,6 +1,6 @@
 # Game Boy Tiles
 
-[GitHub](https://github.com/wolfboyft/gameboytiles)
+[GitHub](https://github.com/Tachytaenius/gameboytiles)
 
 Game Boy Tiles is my first successful attempt at tiled movement with map loading etc on the Game Boy.
 It was very difficult to debug, but I am fairly skilled at debugging for the Game Boy (using the BGB emulator).
