@@ -5,6 +5,16 @@ I like to try and make projects to a high level of code quality (usually).
 
 ---
 
+## Released Major Projects
+
+### [Fist of Jupiter](/major/fist_of_jupiter/main.md)
+[[Itch]](https://wolfboyft.itch.io/fist-of-jupiter) | [[GitHub]](https://github.com/Tachytaenius/fist-of-jupiter)
+An arcade space shoot-'em-up about repelling an invasion, written for the LÖVE framework
+
+<img src="images/fist_of_jupiter_screenshot_3.png?raw=true">
+
+---
+
 ## Major Projects
 
 ### [Alive Attempts](/major/alive/main.md)
