@@ -1,6 +1,6 @@
 # Fist of Jupiter
 
-[[Itch]](https://wolfboyft.itch.io/fist-of-jupiter) | [[GitHub]](https://github.com/Tachytaenius/fist-of-jupiter)
+[[Itch]](https://wolfboyft.itch.io/fist-of-jupiter) \| [[GitHub]](https://github.com/Tachytaenius/fist-of-jupiter)
 
 Fist of Jupiter is my first fully completed game.
 It's got a nonsense pulp sci-fi story about how in the fictional future year of 30XX, humanity lives throughout the solar system, and Earth is trying to invade the colonies of Jupiter.
